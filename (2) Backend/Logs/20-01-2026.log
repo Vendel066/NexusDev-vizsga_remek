@@ -1,0 +1,6 @@
+[13:04:29] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[13:04:29] [ERROR] - Failed to connect to the MySQL database: Error: ER_ACCESS_DENIED_ERROR: Access denied for user 'root'@'localhost' (using password: NO)!
+[13:04:43] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[13:04:43] [LOG] - Connected to the MySQL database successfully!
+[14:20:36] [LOG] - User registered successfully with email: farmik171@hengersor.hu!
+[14:20:43] [LOG] - User 1 logged in successfully without an active order!

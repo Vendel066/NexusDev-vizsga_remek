@@ -1,0 +1,203 @@
+﻿using System;
+using System.Text;
+using System.Windows;
+using System.Net.Http;
+using System.Text.Json;
+using System.ComponentModel;
+using System.Threading.Tasks;
+using NexusDev_Dashboard.Misc;
+using System.Windows.Controls;
+using System.Windows.Threading;
+
+namespace NexusDev_Dashboard.Windows
+{
+    public partial class Main : Window
+    {
+        private DispatcherTimer timer;
+
+
+
+        public Main()
+        {
+            InitializeComponent();
+
+            timer = new();
+            timer.Interval = TimeSpan.FromSeconds(0.1);
+            timer.Tick += Timer_Tick;
+            timer.Start();
+        }
+
+
+        private async void Timer_Tick(object? sender, EventArgs e)
+        {
+            if (App.uid != -1)
+            {
+                await GetOrders();
+                RefreshOrderList();
+            }
+        }
+
+
+        private void HideWindowItem_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                Debug.Log("Hiding window...");
+
+                this.Hide();
+
+                Debug.Log("Window is hidden.");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error while hiding this window!", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                Debug.Error($"Error while hiding the main window: {ex.Message}!");
+            }
+        }
+
+        private void CloseApplicationItem_Click(object sender, RoutedEventArgs e)
+        {
+            App.Closing();
+        }
+
+        private void LogoutItem_Click(object sender, RoutedEventArgs e)
+        {
+            App.SignOut();
+        }
+
+        private void ContactItem_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Team Members:\n-Zsolt Simó\n-Miklós Farkas\n-Vendel Medgyes\n\nApplication Developed By: Zsolt Simó\n\nCopyright 2026 Nexusdev All Rights Reserved!", "Contact", MessageBoxButton.OK, MessageBoxImage.Information);
+        }
+
+
+        private void OrderList_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            try
+            {
+                int selectedIndex = OrderList.SelectedIndex;
+
+                if (selectedIndex != -1)
+                {
+                    Debug.Log("Opening order...");
+
+                    Order order = App.orders[selectedIndex];
+
+                    OrderWindow orderWindow = new(selectedIndex, order.oid);
+                    orderWindow.Show();
+
+                    Debug.Log("Order opened.");
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error while opening order!", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                Debug.Error($"Error while opening order: {ex.Message}!");
+            }
+        }
+
+
+        public static async Task GetOrders()
+        {
+            try
+            {
+                Debug.Log("Getting orders...");
+
+                App.orders.Clear();
+
+                using HttpClient client = new();
+                // The API expects a JSON body with `user_id` and endpoint is /api/get_orders
+                var body = JsonSerializer.Serialize(new { user_id = App.uid });
+                StringContent content = new(body, Encoding.UTF8, "application/json");
+
+                HttpResponseMessage response = await client.PostAsync($"{App.url}/get_orders", content);
+                string responseBody = await response.Content.ReadAsStringAsync();
+                OrdersResponse? result = JsonSerializer.Deserialize<OrdersResponse>(responseBody);
+
+                if (result == null || result.error)
+                {
+                    MessageBox.Show("Failed to get orders!", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                    Debug.Error("API returned error while getting orders!");
+                    return;
+                }
+
+                foreach (Order o in result.orders)
+                {
+                    Order order = new
+                    (
+                        o.oid,
+                        o.uid,
+                        o.freelancer_uid,
+                        o.title ?? string.Empty,
+                        o.description ?? string.Empty,
+                        o.type,
+                        o.other_type ?? string.Empty,
+                        o.platform,
+                        o.budget,
+                        o.document_url ?? string.Empty,
+                        o.deadline,
+                        o.project_version ?? string.Empty,
+                        o.project_url ?? string.Empty,
+                        o.created_at,
+                        o.status
+                    );
+
+                    App.orders.Add(order);
+                }
+
+                Debug.Log($"Successfully pulled {App.orders.Count} order!");
+            }
+            catch (HttpRequestException e)
+            {
+                MessageBox.Show("Server connection error while getting the orders!", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                Debug.Error($"Server connection error while getting the orders: {e.Message}!");
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show("Unexpected error while getting the orders!", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                Debug.Error($"Unexpected error while getting the orders: {e.Message}!");
+            }
+        }
+
+        public void RefreshOrderList()
+        {
+            try
+            {
+                Debug.Log("Refreshing order list...");
+
+                OrderList.Items.Clear();
+
+                foreach (Order order in App.orders)
+                {
+                    OrderList.Items.Add($"{order.title} (Order ID: {order.oid}) (Status: {(order.status == 1 ? "Pending" : order.status == 2 ? "In Progress" : order.status == 3 ? "Completed" : "Canceled")})");
+                }
+
+                Debug.Log("Order list refreshed.");
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show("Error while refreshing order list!", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                Debug.Error($"Error while refreshing order list: {e.Message}!");
+            }
+        }
+
+
+        private void WhenClosing(object? sender, CancelEventArgs e)
+        {
+            try
+            {
+                Debug.Log("Hiding window...");
+
+                e.Cancel = true;
+                this.Hide();
+
+                Debug.Log("Window is hidden.");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error while hiding this window!", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                Debug.Error($"Error while hiding the main window: {ex.Message}!");
+            }
+        }
+    }
+}

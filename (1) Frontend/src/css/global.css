@@ -1,0 +1,155 @@
+/* Betutipus importalasa */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Rajdhani:wght@400;600&display=swap');
+
+/* Szinek */
+:root
+{
+  --fo-szin: #05f719;
+  --hatter-szin: #1a1a2e;
+  --kartya-szin: #2d2d44;
+  --szoveg-szin: #e4e4e4;
+}
+
+/* Alap reset */
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-shadow: black 1px 1px 5px;
+}
+
+/* Body */
+body
+{
+  font-family: "Rajdhani", sans-serif;
+  text-shadow: black 1px 1px 5px;
+  background-image: url("../../img/darkmodebg.png");
+  background-size: cover;
+  background-attachment: fixed;
+  color: var(--szoveg-szin);
+  min-height: 100vh;
+}
+
+html,
+body
+{
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+img,
+video,
+canvas,
+svg
+{
+  max-width: 100%;
+}
+
+/* Fo tartalom */
+main
+{
+  padding-top: 80px;
+  min-height: 100vh;
+}
+
+/* Gomb stilusok */
+button
+{
+  background-color: var(--fo-szin);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  text-shadow: black 1px 1px 5px;
+}
+
+button:hover
+{
+  background-color: #04c914;
+}
+
+input[type="file"]::file-selector-button
+{
+  background-color: var(--fo-szin);
+  color: white;
+  border: none;
+  padding: 3px 6px;
+  border-radius: 8px;
+  cursor: pointer;
+  text-shadow: black 1px 1px 2px;
+}
+
+input[type="file"]::file-selector-button:hover
+{
+  background-color: #04c914;
+}
+
+/* Responsive foundations */
+@media (max-width: 480px) {
+  body {
+    font-size: 14px;
+    background-attachment: scroll;
+  }
+
+  main {
+    padding-top: 70px;
+  }
+
+  button {
+    font-size: 14px;
+    padding: 8px 16px;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+  body {
+    font-size: 15px;
+  }
+
+  main {
+    padding-top: 75px;
+  }
+
+  button {
+    font-size: 15px;
+    padding: 9px 18px;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  body {
+    font-size: 16px;
+  }
+
+  main {
+    padding-top: 80px;
+  }
+
+  button {
+    font-size: 16px;
+    padding: 10px 20px;
+  }
+}
+
+@media (min-width: 2560px) {
+  body {
+    font-size: 20px;
+  }
+
+  main {
+    padding-top: 110px;
+  }
+
+  .hero-section,
+  .about-section,
+  .team-section,
+  .ideas-container,
+  .profile-container {
+    max-width: 2200px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

@@ -1,0 +1,8 @@
+[11:12:12] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[11:12:12] [ERROR] - Failed to connect to the MySQL database: Error: ER_ACCESS_DENIED_ERROR: Access denied for user 'root'@'localhost' (using password: NO)!
+[11:12:32] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[11:12:32] [ERROR] - Failed to connect to the MySQL database: Error: ER_ACCESS_DENIED_ERROR: Access denied for user 'root'@'localhost' (using password: NO)!
+[11:12:48] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[11:12:48] [LOG] - Connected to the MySQL database successfully!
+[11:12:48] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[11:12:48] [LOG] - Connected to the MySQL database successfully!

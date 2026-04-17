@@ -1,0 +1,410 @@
+﻿using System;
+using System.Windows;
+using System.Windows.Media;
+using MySql.Data.MySqlClient;
+using System.Windows.Controls;
+using System.Windows.Threading;
+using System.Collections.Generic;
+
+namespace NexusDev_Dashboard.Windows
+{
+    public partial class OrderWindow : Window
+    {
+        private int orderIndex;
+        private int orderId;
+
+        private DispatcherTimer timer;
+        private List<OrderMessage> messages = new();
+
+
+
+        public OrderWindow(int orderIndex, int orderId)
+        {
+            InitializeComponent();
+
+            this.orderIndex = orderIndex;
+            this.orderId = orderId;
+
+            timer = new();
+            timer.Interval = TimeSpan.FromSeconds(0.1);
+            timer.Tick += Timer_Tick;
+            timer.Start();
+        }
+
+
+        private void Timer_Tick(object? sender, EventArgs e)
+        {
+            if (App.orders.Count <= orderIndex || App.orders[orderIndex].oid != orderId)
+            {
+                MessageBox.Show("This order has been revoked by the publisher!", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                Debug.Warning("This order has been revoked by the publisher!");
+
+                Close();
+            }
+            else
+            {
+                GetMessages();
+                UpdateMessages();
+                UpdateUI();
+            }
+        }
+
+
+        private void PendingItem_Click(object sender, RoutedEventArgs e)
+        {
+            UpdateStatus(1);
+        }
+
+        private void InProgressItem_Click(object sender, RoutedEventArgs e)
+        {
+            UpdateStatus(2);
+        }
+
+        private void CompletedItem_Click(object sender, RoutedEventArgs e)
+        {
+            UpdateStatus(3);
+        }
+
+        private void CanceledItem_Click(object sender, RoutedEventArgs e)
+        {
+            UpdateStatus(4);
+        }
+
+
+        private void SendButton_Click(object sender, RoutedEventArgs e)
+        {
+            string message = ChatInput.Text;
+
+            if (message.Length >= 1024)
+            {
+                MessageBox.Show("Message is too long! Maximum length is 1024 characters.", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                Debug.Warning("Message is too long! Maximum length is 1024 characters.");
+                return;
+            }
+
+            if (string.IsNullOrWhiteSpace(message))
+            {
+                MessageBox.Show("Message cannot be empty!", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                Debug.Warning("Message cannot be empty!");
+                return;
+            }
+
+            SendMessage(message);
+        }
+
+
+        public void UpdateUI()
+        {
+            try
+            {
+                Debug.Log("Updating UI...");
+
+                Title = $"{App.orders[orderIndex].title} (Order ID: {App.orders[orderIndex].oid}) (Status: {(App.orders[orderIndex].status == 1 ? "Pending" : App.orders[orderIndex].status == 2 ? "In Progress" : App.orders[orderIndex].status == 3 ? "Completed" : "Canceled")})";
+
+                OrderTitle.Text = App.orders[orderIndex].title;
+                OrderDescription.Text = App.orders[orderIndex].description;
+                
+                if (App.orders[orderIndex].type == 1)
+                {
+                    OrderType.Text = "Website";
+                    OrderPlatform.Text = string.Empty;
+                }
+                else if (App.orders[orderIndex].type == 2)
+                {
+                    OrderType.Text = "Desktop Application";
+                    
+                    switch (App.orders[orderIndex].platform)
+                    {
+                        case 1:
+                            OrderPlatform.Text = "Windows";
+                            break;
+                        case 2:
+                            OrderPlatform.Text = "Linux";
+                            break;
+                        case 3:
+                            OrderPlatform.Text = "MacOS";
+                            break;
+                    }
+                }
+                else if (App.orders[orderIndex].type == 3)
+                {
+                    OrderType.Text = "Mobile Application";
+
+                    switch (App.orders[orderIndex].platform)
+                    {
+                        case 4:
+                            OrderPlatform.Text = "Android";
+                            break;
+                        case 5:
+                            OrderPlatform.Text = "IOS";
+                            break;
+                    }
+                }
+                else if (App.orders[orderIndex].type == 4)
+                {
+                    OrderType.Text = App.orders[orderIndex].other_type;
+
+                    switch (App.orders[orderIndex].platform)
+                    {
+                        case 1:
+                            OrderPlatform.Text = "Windows";
+                            break;
+                        case 2:
+                            OrderPlatform.Text = "Linux";
+                            break;
+                        case 3:
+                            OrderPlatform.Text = "MacOS";
+                            break;
+                        case 4:
+                            OrderPlatform.Text = "Android";
+                            break;
+                        case 5:
+                            OrderPlatform.Text = "IOS";
+                            break;
+                    }
+                }
+
+                OrderBudget.Text = $"${App.orders[orderIndex].budget}";
+                OrderDeadline.Text = App.orders[orderIndex].deadline.ToString("yyyy-MM-dd");
+                OrderCreatedAt.Text = App.orders[orderIndex].created_at.ToString("yyyy-MM-dd");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error while updating UI!", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                Debug.Error($"Error while updating UI: {ex.Message}!");
+            }
+        }
+
+        public void UpdateStatus(int status)
+        {
+            try
+            {
+                Debug.Log("Updating status...");
+
+                Debug.Log("Connecting to database...");
+                using MySqlConnection connection = new(App.connectionString);
+                connection.Open();
+                Debug.Log("Connected to database.");
+
+                Debug.Log("Updating status in database...");
+                using MySqlCommand command = new($"UPDATE `orders` SET `status` = @status WHERE `oid` = @oid", connection);
+                command.Parameters.AddWithValue("@status", status);
+                command.Parameters.AddWithValue("@oid", App.orders[orderIndex].oid);
+
+                int result = command.ExecuteNonQuery();
+
+                if (result == 0)
+                {
+                    MessageBox.Show("Failed to update order status!", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                    Debug.Error("Failed to update order status: No rows were affected!");
+
+                }
+                else
+                {
+                    App.orders[orderIndex].status = status;
+                    Debug.Log("Order status updated successfully.");
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error while updating order status!", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                Debug.Error($"Error while updating order status: {ex.Message}!");
+            }
+        }
+
+        public void GetMessages()
+        {
+            try
+            {
+                Debug.Log("Getting messages...");
+
+                Debug.Log("Connecting to database...");
+                using MySqlConnection connection = new(App.connectionString);
+                connection.Open();
+                Debug.Log("Connected to database.");
+
+                Debug.Log("Getting messages from database...");
+                using MySqlCommand command = new($"SELECT * FROM `order_messages` WHERE `oid` = @oid ORDER BY `created_at` ASC", connection);
+                command.Parameters.AddWithValue("@oid", App.orders[orderIndex].oid);
+                using MySqlDataReader reader = command.ExecuteReader();
+                Debug.Log("Messages retrieved from database.");
+
+                Debug.Log("Processing messages...");
+
+                messages.Clear();
+
+                while (reader.Read())
+                {
+                    OrderMessage msg = new()
+                    {
+                        mid = reader.IsDBNull(reader.GetOrdinal("mid")) ? 0 : reader.GetInt32(reader.GetOrdinal("mid")),
+                        oid = reader.IsDBNull(reader.GetOrdinal("oid")) ? 0 : reader.GetInt32(reader.GetOrdinal("oid")),
+                        uid = reader.IsDBNull(reader.GetOrdinal("uid")) ? 0 : reader.GetInt32(reader.GetOrdinal("uid")),
+                        content = reader.IsDBNull(reader.GetOrdinal("message")) ? string.Empty : reader.GetString(reader.GetOrdinal("message")),
+                        created_at = reader.IsDBNull(reader.GetOrdinal("created_at")) ? DateTime.MinValue : reader.GetDateTime(reader.GetOrdinal("created_at"))
+                    };
+
+                    messages.Add(msg);
+                }
+
+                connection.Close();
+
+                Debug.Log("Messages processed.");
+
+                Debug.Log($"Loaded {messages.Count} messages.");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error while getting messages!", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                Debug.Error($"Error while getting messages: {ex.Message}!");
+            }
+        }
+
+        public void UpdateMessages()
+        {
+            {
+                try
+                {
+                    // Try to preserve the user's scroll position when messages refresh.
+                    ScrollViewer? scrollViewer = GetScrollViewer(ChatMessages);
+
+                    double oldScrollableHeight = 0;
+                    double oldOffset = 0;
+                    double relativePos = 0;
+                    bool wasAtBottom = true;
+
+                    if (scrollViewer != null)
+                    {
+                        oldScrollableHeight = scrollViewer.ScrollableHeight;
+                        oldOffset = scrollViewer.VerticalOffset;
+                        wasAtBottom = oldOffset >= Math.Max(0, oldScrollableHeight - 1);
+                        relativePos = oldScrollableHeight > 0 ? oldOffset / oldScrollableHeight : 0;
+                    }
+
+                    ChatMessages.Items.Clear();
+
+                    foreach (OrderMessage msg in messages)
+                    {
+                        double availableWidth = ChatMessages.ActualWidth;
+                        double maxBubbleWidth = availableWidth > 64 ? Math.Max(240, availableWidth - 32) : 480;
+
+                        Border bubble = new()
+                        {
+                            CornerRadius = new CornerRadius(8),
+                            Padding = new Thickness(8),
+                            Margin = new Thickness(4),
+                            MaxWidth = maxBubbleWidth,
+                            Background = msg.uid == App.uid ? (Brush)new SolidColorBrush(Color.FromArgb(0xFF, 0x05, 0xF7, 0x19)) : Brushes.DimGray
+                        };
+
+                        TextBlock content = new()
+                        {
+                            Text = msg.content,
+                            TextWrapping = TextWrapping.Wrap,
+                            Foreground = msg.uid == App.uid ? Brushes.Black : Brushes.White
+                        };
+
+                        bubble.Child = content;
+
+                        Grid container = new()
+                        {
+                            HorizontalAlignment = msg.uid == App.uid ? HorizontalAlignment.Right : HorizontalAlignment.Left
+                        };
+
+                        container.Children.Add(bubble);
+
+                        ListBoxItem item = new()
+                        {
+                            Content = container,
+                            Background = Brushes.Transparent,
+                            BorderThickness = new Thickness(0)
+                        };
+
+                        ChatMessages.Items.Add(item);
+                    }
+
+                    // After repopulating, restore scroll position.
+                    if (scrollViewer != null)
+                    {
+                        if (wasAtBottom && ChatMessages.Items.Count > 0)
+                        {
+                            ChatMessages.ScrollIntoView(ChatMessages.Items[ChatMessages.Items.Count - 1]);
+                        }
+                        else
+                        {
+                            // Maintain the relative scroll position so the user can keep reading older messages.
+                            double newScrollableHeight = scrollViewer.ScrollableHeight;
+                            double newOffset = newScrollableHeight * relativePos;
+                            if (double.IsNaN(newOffset) || double.IsInfinity(newOffset)) newOffset = 0;
+                            // Clamp
+                            newOffset = Math.Max(0, Math.Min(newOffset, newScrollableHeight));
+                            scrollViewer.ScrollToVerticalOffset(newOffset);
+                        }
+                    }
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Error while updating messages!", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                    Debug.Error($"Error while updating messages: {ex.Message}!");
+                }
+            }
+        }
+
+        public void SendMessage(string message)
+        {
+            try
+            {
+                Debug.Log("Sending message...");
+
+                Debug.Log("Connecting to database...");
+                using MySqlConnection connection = new(App.connectionString);
+                connection.Open();
+                Debug.Log("Connected to database.");
+
+                Debug.Log("Inserting message into database...");
+                using MySqlCommand command = new($"INSERT INTO `order_messages` (`oid`, `uid`, `message`) VALUES (@oid, @uid, @message)", connection);
+                command.Parameters.AddWithValue("@oid", App.orders[orderIndex].oid);
+                command.Parameters.AddWithValue("@uid", App.uid);
+                command.Parameters.AddWithValue("@message", message);
+                int result = command.ExecuteNonQuery();
+
+                if (result == 0)
+                {
+                    throw new Exception("Failed to insert message into database: No rows were affected!");
+                }
+                else
+                {
+                    ChatInput.Text = string.Empty;
+
+                    Debug.Log("Message sent successfully.");
+                }
+            }
+            catch (MySqlException ex)
+            {
+                MessageBox.Show("Database error while sending message!", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                Debug.Error($"Database error while sending message: {ex.Message}!");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error while sending message!", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                Debug.Error($"Error while sending message: {ex.Message}!");
+            }
+        }
+
+        private static ScrollViewer? GetScrollViewer(DependencyObject dep)
+        {
+            if (dep == null) return null;
+
+            if (dep is ScrollViewer) return (ScrollViewer)dep;
+
+            for (int i = 0; i < VisualTreeHelper.GetChildrenCount(dep); i++)
+            {
+                DependencyObject child = VisualTreeHelper.GetChild(dep, i);
+                ScrollViewer? result = GetScrollViewer(child);
+                if (result != null) return result;
+            }
+
+            return null;
+        }
+    }
+}

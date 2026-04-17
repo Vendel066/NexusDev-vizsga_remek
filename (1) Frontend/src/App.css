@@ -1,0 +1,16 @@
+/* NEXUSDEV - Fo CSS fajl */
+
+
+/* Alap stilusok */
+@import './css/global.css';
+
+/* Komponensek */
+@import './css/navbar.css';
+@import './css/footer.css';
+
+/* Oldalak */
+@import './css/homepage.css';
+@import './css/auth.css';
+@import './css/ideas.css';
+@import './css/order.css';
+@import './css/profile.css';

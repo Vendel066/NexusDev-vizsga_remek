@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\simzso220\\Desktop\\vizsga_remek\\(3) Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6851DD-DE61-4BDC-A49A-310CE39DD997}|NexusDev Dashboard.csproj|c:\\users\\simzso220\\desktop\\vizsga_remek\\(3) application\\windows\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E6851DD-DE61-4BDC-A49A-310CE39DD997}|NexusDev Dashboard.csproj|solutionrelative:windows\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6851DD-DE61-4BDC-A49A-310CE39DD997}|NexusDev Dashboard.csproj|c:\\users\\simzso220\\desktop\\vizsga_remek\\(3) application\\windows\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6851DD-DE61-4BDC-A49A-310CE39DD997}|NexusDev Dashboard.csproj|solutionrelative:windows\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.xaml",
+              "DocumentMoniker": "C:\\Users\\simzso220\\Desktop\\vizsga_remek\\(3) Application\\Windows\\Main.xaml",
+              "RelativeDocumentMoniker": "Windows\\Main.xaml",
+              "ToolTip": "C:\\Users\\simzso220\\Desktop\\vizsga_remek\\(3) Application\\Windows\\Main.xaml",
+              "RelativeToolTip": "Windows\\Main.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-15T06:11:53.085Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\simzso220\\Desktop\\vizsga_remek\\(3) Application\\Windows\\Main.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\Main.xaml.cs",
+              "ToolTip": "C:\\Users\\simzso220\\Desktop\\vizsga_remek\\(3) Application\\Windows\\Main.xaml.cs",
+              "RelativeToolTip": "Windows\\Main.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:02:13.199Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

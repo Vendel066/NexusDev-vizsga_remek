@@ -1,0 +1,295 @@
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\logo.png
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\logo.ico
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\backgrounds\darkmodebg.png
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\backgrounds\whitemodebg.png
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.exe
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.deps.json
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.runtimeconfig.json
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\BouncyCastle.Cryptography.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\Google.Protobuf.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\K4os.Compression.LZ4.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\K4os.Compression.LZ4.Streams.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\K4os.Hash.xxHash.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\MySql.Data.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\System.IO.Pipelines.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\System.Text.Encodings.Web.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\System.Text.Json.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\ZstdSharp.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\comerr64.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\gssapi64.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\k5sprt64.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\krb5_64.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\krbcc64.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\Microsoft.Windows.SDK.NET.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\WinRT.Runtime.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.csproj.AssemblyReference.cache
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\MainWindow.g.cs
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\App.g.cs
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard_Content.g.cs
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard_MarkupCompile.cache
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard_MarkupCompile.lref
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\MainWindow.baml
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.g.resources
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.AssemblyInfoInputs.cache
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.AssemblyInfo.cs
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.csproj.CoreCompileInputs.cache
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\NexusDev.640FE116.Up2Date
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.genruntimeconfig.cache
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\backgrounds\darkmodebg.png
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\backgrounds\whitemodebg.png
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\logo.png
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\logo.ico
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.exe
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.deps.json
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.runtimeconfig.json
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\BouncyCastle.Cryptography.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\Google.Protobuf.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\K4os.Compression.LZ4.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\K4os.Hash.xxHash.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\MySql.Data.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\System.IO.Pipelines.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\System.Text.Encodings.Web.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\System.Text.Json.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\ZstdSharp.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Release\net8.0-windows10.0.26100.0\WinRT.Runtime.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.csproj.AssemblyReference.cache
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\MainWindow.g.cs
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\App.g.cs
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard_Content.g.cs
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard_MarkupCompile.cache
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard_MarkupCompile.lref
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\MainWindow.baml
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.g.resources
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.AssemblyInfoInputs.cache
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.AssemblyInfo.cs
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\NexusDev.640FE116.Up2Date
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.genruntimeconfig.cache
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.csproj.AssemblyReference.cache
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\App.g.cs
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard_Content.g.cs
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard_MarkupCompile.cache
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard_MarkupCompile.lref
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.dll
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Resources\Backgrounds\darkmodebg.png
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Resources\Backgrounds\whitemodebg.png
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Resources\logo.ico
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Resources\logo.png
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.exe
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.deps.json
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.runtimeconfig.json
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.dll
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\BouncyCastle.Cryptography.dll
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Google.Protobuf.dll
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\K4os.Compression.LZ4.dll
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\K4os.Hash.xxHash.dll
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\MySql.Data.dll
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\System.IO.Pipelines.dll
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\ZstdSharp.dll
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\WinRT.Runtime.dll
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.g.resources
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.AssemblyInfoInputs.cache
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.AssemblyInfo.cs
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev.640FE116.Up2Date
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.genruntimeconfig.cache
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Resources\Backgrounds\darkmodebg.png
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Resources\Backgrounds\whitemodebg.png
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Resources\logo.ico
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Resources\logo.png
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.exe
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.deps.json
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.runtimeconfig.json
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\BouncyCastle.Cryptography.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Google.Protobuf.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\K4os.Compression.LZ4.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\K4os.Compression.LZ4.Streams.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\K4os.Hash.xxHash.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\MySql.Data.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\System.IO.Pipelines.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\ZstdSharp.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\comerr64.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\gssapi64.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\k5sprt64.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\krb5_64.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\krbcc64.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Microsoft.Windows.SDK.NET.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\WinRT.Runtime.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.csproj.AssemblyReference.cache
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\App.g.cs
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard_Content.g.cs
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard_MarkupCompile.cache
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard_MarkupCompile.lref
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.g.resources
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.AssemblyInfoInputs.cache
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.AssemblyInfo.cs
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.csproj.CoreCompileInputs.cache
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev.640FE116.Up2Date
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.genruntimeconfig.cache
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\BCrypt.Net-Next.dll
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\BCrypt.Net-Next.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Resources\Backgrounds\darkmodebg.png
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Resources\Backgrounds\whitemodebg.png
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Resources\logo.ico
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Resources\logo.png
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.exe
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.deps.json
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.runtimeconfig.json
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\BCrypt.Net-Next.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\BouncyCastle.Cryptography.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Google.Protobuf.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\K4os.Compression.LZ4.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\K4os.Hash.xxHash.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\MySql.Data.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\System.IO.Pipelines.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\ZstdSharp.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\WinRT.Runtime.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.csproj.AssemblyReference.cache
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Components\Main.baml
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Components\Login.g.cs
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Components\Main.g.cs
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\App.g.cs
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard_Content.g.cs
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard_MarkupCompile.cache
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard_MarkupCompile.lref
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Components\Login.baml
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.g.resources
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.AssemblyInfoInputs.cache
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.AssemblyInfo.cs
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev.640FE116.Up2Date
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.genruntimeconfig.cache
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Windows\Main.baml
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Windows\Login.g.cs
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Windows\Main.g.cs
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Windows\OrderWindow.g.cs
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Windows\Login.baml
+D:\User Folder\Documents\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Windows\OrderWindow.baml
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Windows\Main.baml
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Windows\Login.g.cs
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Windows\Main.g.cs
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Windows\OrderWindow.g.cs
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Windows\Login.baml
+C:\Users\simzso220\Desktop\GitHub\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Windows\OrderWindow.baml
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Resources\Backgrounds\darkmodebg.png
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Resources\Backgrounds\whitemodebg.png
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Resources\logo.ico
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Resources\logo.png
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.exe
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.deps.json
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.runtimeconfig.json
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.dll
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\BCrypt.Net-Next.dll
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\BouncyCastle.Cryptography.dll
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Google.Protobuf.dll
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\K4os.Compression.LZ4.dll
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\K4os.Hash.xxHash.dll
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\MySql.Data.dll
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\System.IO.Pipelines.dll
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\ZstdSharp.dll
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\WinRT.Runtime.dll
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.csproj.AssemblyReference.cache
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Windows\Main.baml
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Windows\Login.g.cs
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Windows\Main.g.cs
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Windows\OrderWindow.g.cs
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\App.g.cs
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard_Content.g.cs
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard_MarkupCompile.cache
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard_MarkupCompile.lref
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Windows\Login.baml
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Windows\OrderWindow.baml
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.g.resources
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.AssemblyInfoInputs.cache
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.AssemblyInfo.cs
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev.640FE116.Up2Date
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.dll
+C:\Users\simzso220\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.genruntimeconfig.cache
+D:\User Folder\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.csproj.AssemblyReference.cache
+D:\User Folder\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Windows\Main.baml
+D:\User Folder\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Windows\Login.g.cs
+D:\User Folder\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Windows\Main.g.cs
+D:\User Folder\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Windows\OrderWindow.g.cs
+D:\User Folder\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\App.g.cs
+D:\User Folder\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard_Content.g.cs
+D:\User Folder\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard_MarkupCompile.cache
+D:\User Folder\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard_MarkupCompile.lref
+D:\User Folder\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.dll
+D:\User Folder\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Resources\Backgrounds\darkmodebg.png
+D:\User Folder\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Resources\Backgrounds\whitemodebg.png
+D:\User Folder\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Resources\logo.ico
+D:\User Folder\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Resources\logo.png
+D:\User Folder\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.exe
+D:\User Folder\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.deps.json
+D:\User Folder\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.runtimeconfig.json
+D:\User Folder\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.dll
+D:\User Folder\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\BCrypt.Net-Next.dll
+D:\User Folder\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\BouncyCastle.Cryptography.dll
+D:\User Folder\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Google.Protobuf.dll
+D:\User Folder\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\K4os.Compression.LZ4.dll
+D:\User Folder\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\K4os.Compression.LZ4.Streams.dll
+D:\User Folder\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\K4os.Hash.xxHash.dll
+D:\User Folder\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\MySql.Data.dll
+D:\User Folder\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\System.IO.Pipelines.dll
+D:\User Folder\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\ZstdSharp.dll
+D:\User Folder\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\comerr64.dll
+D:\User Folder\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\gssapi64.dll
+D:\User Folder\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\k5sprt64.dll
+D:\User Folder\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\krb5_64.dll
+D:\User Folder\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\runtimes\win-x64\native\krbcc64.dll
+D:\User Folder\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\Microsoft.Windows.SDK.NET.dll
+D:\User Folder\Desktop\vizsga_remek\(3) Application\bin\Release\net8.0-windows10.0.26100.0\WinRT.Runtime.dll
+D:\User Folder\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Windows\Login.baml
+D:\User Folder\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\Windows\OrderWindow.baml
+D:\User Folder\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.g.resources
+D:\User Folder\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+D:\User Folder\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.AssemblyInfoInputs.cache
+D:\User Folder\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.AssemblyInfo.cs
+D:\User Folder\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.csproj.CoreCompileInputs.cache
+D:\User Folder\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev.640FE116.Up2Date
+D:\User Folder\Desktop\vizsga_remek\(3) Application\obj\Release\net8.0-windows10.0.26100.0\NexusDev Dashboard.genruntimeconfig.cache

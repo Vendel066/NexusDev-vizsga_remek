@@ -1,0 +1,63 @@
+[12:20:51] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[12:20:51] [LOG] - Connected to the MySQL database successfully!
+[13:14:45] [ERROR] - Database error during login: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT @uid AS uid' at line 1
+[13:14:51] [ERROR] - Database error during login: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT @uid AS uid' at line 1
+[13:15:20] [ERROR] - Database error during login: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT @uid AS uid' at line 1
+[13:17:00] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[13:17:00] [LOG] - Connected to the MySQL database successfully!
+[13:17:42] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[13:17:42] [LOG] - Connected to the MySQL database successfully!
+[13:22:46] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[13:22:46] [LOG] - Connected to the MySQL database successfully!
+[13:27:49] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[13:27:49] [LOG] - Connected to the MySQL database successfully!
+[14:14:30] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[14:14:30] [LOG] - Connected to the MySQL database successfully!
+[14:14:59] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[14:14:59] [LOG] - Connected to the MySQL database successfully!
+[14:16:11] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[14:16:11] [LOG] - Connected to the MySQL database successfully!
+[14:17:43] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[14:17:43] [LOG] - Connected to the MySQL database successfully!
+[14:20:48] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[14:20:48] [LOG] - Connected to the MySQL database successfully!
+[14:20:57] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[14:20:57] [LOG] - Connected to the MySQL database successfully!
+[14:21:01] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[14:21:01] [LOG] - Connected to the MySQL database successfully!
+[14:21:03] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[14:21:03] [LOG] - Connected to the MySQL database successfully!
+[14:34:45] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[14:34:45] [LOG] - Connected to the MySQL database successfully!
+[14:38:24] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[14:38:24] [LOG] - Connected to the MySQL database successfully!
+[14:40:19] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[14:40:19] [LOG] - Connected to the MySQL database successfully!
+[14:40:26] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[14:40:26] [LOG] - Connected to the MySQL database successfully!
+[14:40:29] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[14:40:29] [LOG] - Connected to the MySQL database successfully!
+[14:40:34] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[14:40:34] [LOG] - Connected to the MySQL database successfully!
+[15:00:57] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[15:00:57] [LOG] - Connected to the MySQL database successfully!
+[15:02:33] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[15:02:33] [LOG] - Connected to the MySQL database successfully!
+[15:04:02] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[15:04:02] [LOG] - Connected to the MySQL database successfully!
+[15:05:08] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[15:05:08] [LOG] - Connected to the MySQL database successfully!
+[15:05:43] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[15:05:43] [LOG] - Connected to the MySQL database successfully!
+[15:08:33] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[15:08:33] [LOG] - Connected to the MySQL database successfully!
+[15:08:52] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[15:08:52] [LOG] - Connected to the MySQL database successfully!
+[15:15:59] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[15:15:59] [LOG] - Connected to the MySQL database successfully!
+[15:26:18] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[15:26:18] [LOG] - Connected to the MySQL database successfully!
+[15:46:59] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[15:46:59] [LOG] - Connected to the MySQL database successfully!
+[16:01:48] [LOG] - Server is running on "http://127.0.0.1:3000"!
+[16:01:48] [LOG] - Connected to the MySQL database successfully!

@@ -1,0 +1,124 @@
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\NexusDev Dashboard.exe
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\NexusDev Dashboard.deps.json
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\NexusDev Dashboard.runtimeconfig.json
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\NexusDev Dashboard.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\NexusDev Dashboard.pdb
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.csproj.AssemblyReference.cache
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\App.g.cs
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard_MarkupCompile.cache
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard_MarkupCompile.lref
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\MainWindow.baml
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.g.resources
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.AssemblyInfoInputs.cache
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.AssemblyInfo.cs
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.csproj.CoreCompileInputs.cache
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.sourcelink.json
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev.640FE116.Up2Date
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\refint\NexusDev Dashboard.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.pdb
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.genruntimeconfig.cache
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\ref\NexusDev Dashboard.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\User Folder\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\NexusDev Dashboard.exe
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\NexusDev Dashboard.deps.json
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\NexusDev Dashboard.runtimeconfig.json
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\NexusDev Dashboard.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\NexusDev Dashboard.pdb
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.csproj.AssemblyReference.cache
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard_MarkupCompile.cache
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard_MarkupCompile.lref
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.g.resources
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.AssemblyInfoInputs.cache
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.AssemblyInfo.cs
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.sourcelink.json
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev.640FE116.Up2Date
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\refint\NexusDev Dashboard.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.pdb
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.genruntimeconfig.cache
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\ref\NexusDev Dashboard.dll
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\NexusDev Dashboard.exe
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\NexusDev Dashboard.deps.json
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\NexusDev Dashboard.runtimeconfig.json
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\NexusDev Dashboard.dll
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\NexusDev Dashboard.pdb
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.csproj.AssemblyReference.cache
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard_MarkupCompile.cache
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard_MarkupCompile.lref
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.g.resources
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.AssemblyInfoInputs.cache
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.AssemblyInfo.cs
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.sourcelink.json
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev.640FE116.Up2Date
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.dll
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\refint\NexusDev Dashboard.dll
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.pdb
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard.genruntimeconfig.cache
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\ref\NexusDev Dashboard.dll
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\backgrounds\darkmodebg.png
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\backgrounds\whitemodebg.png
+C:\Users\simzso220\Documents\GitHub\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard_Content.g.cs
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\backgrounds\darkmodebg.png
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\backgrounds\whitemodebg.png
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\obj\Debug\net8.0-windows\NexusDev Dashboard_Content.g.cs
+C:\Users\simzso220\Desktop\vizsga_remek\Application\NexusDev Dashboard\bin\Debug\net8.0-windows\logo.png

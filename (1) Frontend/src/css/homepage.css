@@ -1,0 +1,461 @@
+.hero-section
+{
+  text-align: center;
+  padding: 15% 20px 5% 20px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.hero-section h1
+{
+  font-family: "Orbitron", sans-serif;
+  font-size: 48px;
+  font-weight: bold;
+  color: var(--fo-szin);
+  margin-bottom: 20px;
+}
+
+.hero-section .subtitle
+{
+  font-size: 20px;
+  color: #c0c0c0;
+  margin-bottom: 30px;
+  line-height: 1.6;
+}
+
+.about-section
+{
+  padding: 60px 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.section-title
+{
+  font-family: "Orbitron", sans-serif;
+  font-size: 36px;
+  text-align: center;
+  margin-bottom: 40px;
+  color: var(--fo-szin);
+  text-transform: uppercase;
+}
+
+.about-content
+{
+  background-color: var(--kartya-szin);
+  border: 1px solid var(--fo-szin);
+  border-radius: 15px;
+  padding: 40px;
+  line-height: 1.8;
+  font-size: 18px;
+  text-align: center;
+}
+
+.about-content p
+{
+  margin-bottom: 20px;
+}
+
+.about-content p:last-child
+{
+  margin-bottom: 0;
+}
+
+.services-section
+{
+  padding: 60px 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.services-grid
+{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 30px;
+  margin-top: 40px;
+}
+
+.service-card
+{
+  background-color: var(--kartya-szin);
+  border: 1px solid var(--fo-szin);
+  border-radius: 15px;
+  padding: 30px;
+  text-align: center;
+  transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+.service-card:hover
+{
+  transform: translateY(-5px);
+  border-color: #4dd5ff;
+}
+
+.service-icon
+{
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.service-card h3
+{
+  font-family: "Orbitron", sans-serif;
+  font-size: 24px;
+  color: var(--fo-szin);
+  margin-bottom: 15px;
+}
+
+.service-card p
+{
+  color: #c0c0c0;
+  line-height: 1.6;
+  font-size: 16px;
+}
+
+.download-section
+{
+  padding: 60px 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.download-description
+{
+  font-size: 18px;
+  color: #c0c0c0;
+  margin-bottom: 40px;
+  line-height: 1.6;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.download-btn
+{
+  background-color: var(--fo-szin);
+  color: white;
+  border: none;
+  padding: 15px 30px;
+  border-radius: 8px;
+  font-size: 18px;
+  font-family: "Orbitron", sans-serif;
+  cursor: pointer;
+  text-transform: uppercase;
+  transition: background-color 0.3s ease;
+}
+
+.download-btn:hover
+{
+  background-color: #04c914;
+}
+
+.team-section
+{
+  padding: 60px 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.team-grid
+{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.team-card
+{
+  background-color: var(--kartya-szin);
+  border: 1px solid var(--fo-szin);
+  border-radius: 15px;
+  padding: 30px;
+  text-align: center;
+  width: 300px;
+}
+
+.team-card:hover
+{
+  border-color: #4dd5ff;
+}
+
+.team-card-image
+{
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  margin: 0 auto 20px;
+  background-color: var(--fo-szin);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid var(--fo-szin);
+  overflow: hidden;
+}
+
+.team-card-image img
+{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.team-card-image svg
+{
+  width: 60px;
+  height: 60px;
+  fill: white;
+}
+
+.team-card h3
+{
+  font-family: "Orbitron", sans-serif;
+  font-size: 20px;
+  color: var(--fo-szin);
+  margin-bottom: 8px;
+}
+
+.team-card .role
+{
+  font-size: 14px;
+  color: #4dd5ff;
+  margin-bottom: 15px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.team-card .bio
+{
+  font-size: 16px;
+  color: #c0c0c0;
+  line-height: 1.5;
+}
+
+
+
+@media (max-width: 480px)
+{
+  .hero-section
+  {
+    padding: 60px 14px 20px 14px;
+  }
+
+  .hero-section h1
+  {
+    font-size: 26px;
+  }
+
+  .hero-section .subtitle
+  {
+    font-size: 14px;
+  }
+
+  .about-section,
+  .team-section
+  {
+    padding: 30px 14px;
+  }
+
+  .team-grid
+  {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .team-card
+  {
+    width: 100%;
+    max-width: 360px;
+    padding: 20px;
+  }
+
+  .services-section
+  {
+    padding: 30px 14px;
+  }
+
+  .services-grid
+  {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .service-card
+  {
+    padding: 20px;
+  }
+
+  .service-icon
+  {
+    font-size: 36px;
+  }
+
+  .service-card h3
+  {
+    font-size: 20px;
+  }
+
+  .service-card p
+  {
+    font-size: 14px;
+  }
+
+  .download-section
+  {
+    padding: 30px 14px;
+  }
+
+  .download-description
+  {
+    font-size: 16px;
+  }
+
+  .download-btn
+  {
+    font-size: 16px;
+    padding: 12px 24px;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 768px)
+{
+  .hero-section
+  {
+    padding: 12% 16px 4% 16px;
+  }
+
+  .hero-section h1
+  {
+    font-size: 30px;
+  }
+
+  .hero-section .subtitle
+  {
+    font-size: 16px;
+  }
+
+  .about-section,
+  .team-section
+  {
+    padding: 40px 16px;
+  }
+
+  .team-card
+  {
+    max-width: 380px;
+  }
+
+  .services-section
+  {
+    padding: 40px 16px;
+  }
+
+  .services-grid
+  {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+  }
+
+  .service-card
+  {
+    padding: 24px;
+  }
+
+  .download-section
+  {
+    padding: 40px 16px;
+  }
+
+  .download-description
+  {
+    font-size: 17px;
+  }
+
+  .download-btn
+  {
+    font-size: 17px;
+    padding: 14px 28px;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px)
+{
+  .hero-section {
+    padding: 14% 18px 6% 18px;
+  }
+
+  .hero-section h1 {
+    font-size: 38px;
+  }
+
+  .team-card {
+    max-width: 320px;
+  }
+
+  .services-grid {
+    gap: 28px;
+  }
+
+  .download-btn {
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 2560px) {
+  .hero-section {
+    padding: 10% 80px 3% 80px;
+  }
+
+  .hero-section h1 {
+    font-size: 64px;
+  }
+
+  .team-grid {
+    gap: 48px;
+  }
+
+  .team-card {
+    max-width: 380px;
+  }
+
+  .services-section {
+    padding: 80px 40px;
+  }
+
+  .services-grid {
+    gap: 40px;
+  }
+
+  .service-card {
+    padding: 40px;
+  }
+
+  .service-icon {
+    font-size: 60px;
+  }
+
+  .service-card h3 {
+    font-size: 28px;
+  }
+
+  .service-card p {
+    font-size: 18px;
+  }
+
+  .download-section {
+    padding: 80px 40px;
+  }
+
+  .download-description {
+    font-size: 20px;
+  }
+
+  .download-btn {
+    font-size: 20px;
+    padding: 18px 36px;
+  }
+}
